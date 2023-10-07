@@ -1,7 +1,7 @@
 # Greetings, Digital Traveller! 🌍 I am Ryan
 
 <p align="center">
-  <img width="250" src="[https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaGhybDZvZGlwZTVqbWd2aW0xYW56cHd3Z3lzem8zMGdqemlmNmVnaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/U4FkC2VqpeNRHjTDQ5/giphy-downsized-large.gif)">
+  <img width="250" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
 </p>
 
 ## 🎨 My Digital Chronicles
