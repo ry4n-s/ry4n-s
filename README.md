@@ -1,7 +1,7 @@
 # Greetings, Digital Traveller! 🌍 I am Ryan
 
 <p align="center">
-  <img width="250" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExaGhybDZvZGlwZTVqbWd2aW0xYW56cHd3Z3lzem8zMGdqemlmNmVnaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/U4FkC2VqpeNRHjTDQ5/giphy.gif" alt="Digital Earth">
+  <img width="250" src="https://giphy.com/embed/U4FkC2VqpeNRHjTDQ5" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/technology-earth-communications-U4FkC2VqpeNRHjTDQ5">via GIPHY</a></p>">
 </p>
 
 
