@@ -10,9 +10,9 @@
 
 Embarking upon the vast cosmos of technology, I've meandered through paths that blend code with creativity, engineering with elegance. From orchestrating IT marvels to delving deep into the gaming world's intricacies, every venture has been a chapter in my tale of digital artistry.
 
-- 📚 Currently pursuing **Bachelor of Applied Science in Computer Engineering** from the **University of Waterloo**.
+- 📚 Currently pursuing a **Bachelor of Applied Science in Computer Engineering** from the **University of Waterloo**.
 - 🌐 Founder & Creator at [The Compendium of Virtue](https://thecompendiumofvirtue.com).
-- 🎲 Contributing to the monumental modding world of **Beyond Skyrim**.
+- 🎲 Contributing to the monumental modding world at **Beyond Skyrim**.
 - 📩 For collaborative ventures or kindred conversations: [rstefano@uwaterloo.ca](mailto:rstefano@uwaterloo.ca).
 
 ## 🎭 My Technical Masquerade
