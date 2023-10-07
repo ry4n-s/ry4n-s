@@ -43,12 +43,3 @@ Toolkits and Software adorning my workbench:
 ![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker)
 ![Kubernetes](https://img.shields.io/badge/-Kubernetes-333333?style=flat&logo=kubernetes)
 
-
-## 🌟 Connect and Explore:
-<a href="https://github.com/ry4n-s">
-  <img align="left" alt="Ryan Stefanov's GitHub" width="22px" src="https://www.vectorlogo.zone/logos/github/github-icon.svg" />
-</a>
-<a href="https://thecompendiumofvirtue.com">
-  <img align="left" alt="The Compendium of Virtue" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />
-</a>
-
