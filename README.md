@@ -1,8 +1,9 @@
 # Greetings, Digital Traveller! 🌍 I am Ryan
 
 <p align="center">
-  <img width="250" src="![Digital Earth](https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif)">
+  <img width="250" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Digital Earth">
 </p>
+
 
 ## 🎨 My Digital Chronicles
 
