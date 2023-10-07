@@ -1,7 +1,7 @@
 # Greetings, Digital Traveller! 🌍 I am Ryan
 
 <p align="center">
-  <iframe src="https://giphy.com/embed/U4FkC2VqpeNRHjTDQ5" width="250" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
+  <img src="https://giphy.com/embed/U4FkC2VqpeNRHjTDQ5" width="250" frameBorder="0" class="giphy-embed" allowFullScreen></img>
 </p>
 
 
